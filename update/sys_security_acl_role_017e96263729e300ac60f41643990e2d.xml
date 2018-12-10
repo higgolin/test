@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>magnus.hillgren</sys_created_by>
+        <sys_created_on>2018-11-06 14:07:26</sys_created_on>
+        <sys_id>017e96263729e300ac60f41643990e2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_higges_test_table.x_snc_higges_test.user</sys_name>
+        <sys_package display_value="Higges test" source="x_snc_higges_test">c47e92263729e300ac60f41643990e67</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Higges test">c47e92263729e300ac60f41643990e67</sys_scope>
+        <sys_security_acl display_value="x_snc_higges_test_table">017e96263729e300ac60f41643990e1d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_017e96263729e300ac60f41643990e2d</sys_update_name>
+        <sys_updated_by>magnus.hillgren</sys_updated_by>
+        <sys_updated_on>2018-11-06 14:07:26</sys_updated_on>
+        <sys_user_role display_value="x_snc_higges_test.user" name="x_snc_higges_test.user">107e56263729e300ac60f41643990e7a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
