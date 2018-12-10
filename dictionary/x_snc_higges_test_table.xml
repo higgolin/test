@@ -2,5 +2,12 @@
     <element label="Higges Test Table" max_length="40" name="x_snc_higges_test_table" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Higges demo" max_length="40" name="higges_demo" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Test Choice" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Första" sequence="0" value="första"/>
+                <element inactive_on_update="false" label="Andra" sequence="1" value="andra"/>
+                <element inactive_on_update="false" label="Tredje" sequence="2" value="tredje"/>
+            </choice>
+        </element>
     </element>
 </database>

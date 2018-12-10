@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_1" table="x_snc_higges_test_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Första</label>
+            <language>en</language>
+            <name>x_snc_higges_test_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>magnus.hillgren</sys_created_by>
+            <sys_created_on>2018-12-10 10:22:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de1178ed37d2ab00ac60f41643990e80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>magnus.hillgren</sys_updated_by>
+            <sys_updated_on>2018-12-10 10:22:50</sys_updated_on>
+            <value>första</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Andra</label>
+            <language>en</language>
+            <name>x_snc_higges_test_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>magnus.hillgren</sys_created_by>
+            <sys_created_on>2018-12-10 10:22:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>521178ed37d2ab00ac60f41643990e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>magnus.hillgren</sys_updated_by>
+            <sys_updated_on>2018-12-10 10:22:50</sys_updated_on>
+            <value>andra</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tredje</label>
+            <language>en</language>
+            <name>x_snc_higges_test_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>magnus.hillgren</sys_created_by>
+            <sys_created_on>2018-12-10 10:22:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de1178ed37d2ab00ac60f41643990e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>magnus.hillgren</sys_updated_by>
+            <sys_updated_on>2018-12-10 10:22:50</sys_updated_on>
+            <value>tredje</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <name>x_snc_higges_test_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>magnus.hillgren</sys_created_by>
+            <sys_created_on>2018-12-10 10:22:50</sys_created_on>
+            <sys_id>5a1178ed37d2ab00ac60f41643990e81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_1</sys_name>
+            <sys_package display_value="Higges test" source="x_snc_higges_test">c47e92263729e300ac60f41643990e67</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Higges test">c47e92263729e300ac60f41643990e67</sys_scope>
+            <sys_update_name>sys_choice_x_snc_higges_test_table_u_choice_1</sys_update_name>
+            <sys_updated_by>magnus.hillgren</sys_updated_by>
+            <sys_updated_on>2018-12-10 10:22:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
